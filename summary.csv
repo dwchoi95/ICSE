@@ -1,0 +1,91 @@
+Problem,Title,Approach,Trials(#),Generations,Correct Programs,Wrong Programs,AVG Solutions,AVG RR,AVG RPS,AVG ATT(sec),AVG CQ
+1,Theatre Square,mentored,100,30,0,20,12,0.60,0.90,1.8,0.66
+2,Watermelon,mentored,100,30,0,31,31,1.00,0.28,0.3,0.50
+3,Domino piling,mentored,100,30,0,10,8,0.80,0.66,0.5,0.44
+4,Petya and Strings,mentored,100,30,0,13,8,0.62,0.29,0.8,0.46
+5,String Task,mentored,100,30,0,16,16,1.00,0.17,1.8,0.60
+6,Next Round,mentored,100,30,0,25,25,1.00,0.61,0.8,0.73
+7,Beautiful Matrix,mentored,100,30,0,8,1,0.12,0.03,0.9,0.05
+8,Stones on the Table,mentored,100,30,0,9,9,1.00,0.41,1.9,0.84
+9,Word Capitalization,mentored,100,30,0,6,6,1.00,1.22,0.3,0.44
+10,Helpful Maths,mentored,100,30,0,4,1,0.25,0.10,1.9,0.11
+11,Sequential search,mentored,100,30,0,575,563,0.98,0.33,3.1,0.75
+12,Unique dates and months,mentored,100,30,0,435,237,0.54,0.24,7.1,0.76
+13,Duplicate elimination,mentored,100,30,0,308,306,0.99,0.35,3.3,0.71
+14,Sorting Tuples,mentored,100,30,0,357,347,0.97,0.30,4.4,0.72
+15,Top-K,mentored,100,30,0,108,105,0.97,0.37,6.5,0.72
+1,Theatre Square,mentored,100,30,30,20,20,1.00,0.33,1.8,0.53
+2,Watermelon,mentored,100,30,14,31,31,1.00,0.26,0.3,0.51
+3,Domino piling,mentored,100,30,40,10,10,1.00,0.21,0.6,0.47
+4,Petya and Strings,mentored,100,30,38,13,13,1.00,0.44,0.9,0.69
+5,String Task,mentored,100,30,32,16,16,1.00,0.17,3.2,0.62
+6,Next Round,mentored,100,30,24,25,25,1.00,0.35,0.9,0.71
+7,Beautiful Matrix,mentored,100,30,42,8,8,1.00,0.47,1.2,0.78
+8,Stones on the Table,mentored,100,30,44,9,9,1.00,0.31,2.4,0.78
+9,Word Capitalization,mentored,100,30,45,6,6,1.00,0.61,0.4,0.61
+10,Helpful Maths,mentored,100,30,47,4,4,1.00,0.45,3.9,0.71
+11,Sequential search,mentored,100,30,768,575,560,0.97,0.29,1.7,0.66
+12,Unique dates and months,mentored,100,30,291,435,271,0.62,0.27,4.7,0.65
+13,Duplicate elimination,mentored,100,30,546,308,307,1.00,0.38,2.6,0.71
+14,Sorting Tuples,mentored,100,30,419,357,348,0.97,0.39,4.6,0.74
+15,Top-K,mentored,100,30,418,108,108,1.00,0.22,7.9,0.70
+1,Theatre Square,pydex,1,10,0,20,20,1,0.25,1.46,0.62
+2,Watermelon,pydex,1,10,0,31,8,0.26,0.19,1.23,0.52
+3,Domino piling,pydex,1,10,0,10,8,0.8,0.07,1.48,0.42
+4,Petya and Strings,pydex,1,10,0,13,11,0.85,0.2,1.57,0.75
+5,String Task,pydex,1,10,0,16,16,1,0.15,1.54,0.68
+6,Next Round,pydex,1,10,0,25,11,0.44,0.15,1.47,0.72
+7,Beautiful Matrix,pydex,1,10,0,8,6,0.75,0.03,1.41,0.71
+8,Stones on the Table,pydex,1,10,0,9,6,0.67,0.18,1.77,0.75
+9,Word Capitalization,pydex,1,10,0,6,2,0.33,0.5,1.17,0.21
+10,Helpful Maths,pydex,1,10,0,4,4,1,0.24,1.62,0.67
+11,Sequential search,pydex,1,10,0,575,510,0.89,0.26,2.33,0.66
+12,Unique dates and months,pydex,1,10,0,435,352,0.81,0.22,2.0,0.74
+13,Duplicate elimination,pydex,1,10,0,308,308,1,0.32,1.73,0.73
+14,Sorting Tuples,pydex,1,10,0,357,350,0.98,0.31,1.68,0.73
+15,Top-K,pydex,1,10,0,108,107,0.99,0.25,1.25,0.77
+1,Theatre Square,pydex,1,10,30,20,20,1,0.26,0.54,0.71
+2,Watermelon,pydex,1,10,14,31,30,0.97,0.5,0.37,0.53
+3,Domino piling,pydex,1,10,40,10,8,0.8,0.07,0.49,0.41
+4,Petya and Strings,pydex,1,10,38,13,13,1,0.35,0.58,0.7
+5,String Task,pydex,1,10,32,16,16,1,0.13,1.43,0.64
+6,Next Round,pydex,1,10,24,25,25,1,0.37,0.75,0.61
+7,Beautiful Matrix,pydex,1,10,42,8,8,1,0.23,0.61,0.64
+8,Stones on the Table,pydex,1,10,44,9,9,1,0.31,0.79,0.79
+9,Word Capitalization,pydex,1,10,45,6,3,0.5,0.56,0.41,0.27
+10,Helpful Maths,pydex,1,10,47,4,4,1,0.09,0.8,0.7
+11,Sequential search,pydex,1,10,768,575,575,1,0.29,1.83,0.66
+12,Unique dates and months,pydex,1,10,291,435,393,0.90,0.25,1.7,0.75
+13,Duplicate elimination,pydex,1,10,546,308,302,0.98,0.31,1.69,0.78
+14,Sorting Tuples,pydex,1,10,419,357,357,1,0.44,1.71,0.82
+15,Top-K,pydex,1,10,418,108,108,1,0.22,0.81,0.76
+1,Theatre Square,refactory,1,1,0,20,19,0.95,0.97,3.33,0.56
+2,Watermelon,refactory,1,1,0,31,6,0.19,0.9,2.99,0.45
+3,Domino piling,refactory,1,1,0,10,0,0.0,nan,3.27,0
+4,Petya and Strings,refactory,1,1,0,13,10,0.77,0.89,6.75,0.54
+5,String Task,refactory,1,1,0,16,15,0.94,1.16,6.89,0.33
+6,Next Round,refactory,1,1,0,25,25,1.0,0.77,5.38,0.29
+7,Beautiful Matrix,refactory,1,1,0,8,7,0.88,0.76,4.05,0.0
+8,Stones on the Table,refactory,1,1,0,9,8,0.89,0.52,5.53,0.66
+9,Word Capitalization,refactory,1,1,0,6,6,1.0,1.63,0.18,0.6
+10,Helpful Maths,refactory,1,1,0,4,4,1.0,1.87,27.07,0.75
+11,Sequential search,refactory,1,1,0,575,344,0.6,0.68,3.31,0.43
+12,Unique dates and months,refactory,1,1,0,435,241,0.55,0.63,4.05,0.49
+13,Duplicate elimination,refactory,1,1,0,308,195,0.63,0.67,3.22,0.62
+14,Sorting Tuples,refactory,1,1,0,357,221,0.62,1.75,7.8,0.59
+15,Top-K,refactory,1,1,0,108,103,0.95,0.78,4.87,0.44
+1,Theatre Square,refactory,1,1,30,20,9,0.45,0.51,2.62,0.61
+2,Watermelon,refactory,1,1,14,31,30,0.97,0.54,0.36,0.38
+3,Domino piling,refactory,1,1,40,10,8,0.8,0.26,0.3,0.28
+4,Petya and Strings,refactory,1,1,38,13,12,0.92,0.68,12.6,0.58
+5,String Task,refactory,1,1,32,16,15,0.94,0.47,5.64,0.58
+6,Next Round,refactory,1,1,24,25,25,1.0,0.53,4.63,0.64
+7,Beautiful Matrix,refactory,1,1,42,8,8,1.0,0.45,1.68,0.48
+8,Stones on the Table,refactory,1,1,44,9,6,0.67,0.49,4.93,0.53
+9,Word Capitalization,refactory,1,1,45,6,2,0.33,0.72,0.18,0.67
+10,Helpful Maths,refactory,1,1,47,4,3,0.75,0.78,4.75,0.45
+11,Sequential search,refactory,1,1,768,575,566,0.98,0.39,3.04,0.56
+12,Unique dates and months,refactory,1,1,291,435,344,0.79,0.46,2.77,0.5
+13,Duplicate elimination,refactory,1,1,546,308,300,0.97,0.33,4.48,0.61
+14,Sorting Tuples,refactory,1,1,419,357,299,0.84,0.26,6.71,0.69
+15,Top-K,refactory,1,1,418,108,91,0.84,0.29,14.25,0.671,Theatre Square,mentored,1,30,0,20,13,0.65,1.32,1.8,0.43
