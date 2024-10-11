@@ -88,4 +88,4 @@ Problem,Title,Approach,Trials(#),Generations,Correct Programs,Wrong Programs,AVG
 12,Unique dates and months,refactory,1,1,291,435,344,0.79,0.46,2.77,0.5
 13,Duplicate elimination,refactory,1,1,546,308,300,0.97,0.33,4.48,0.61
 14,Sorting Tuples,refactory,1,1,419,357,299,0.84,0.26,6.71,0.69
-15,Top-K,refactory,1,1,418,108,91,0.84,0.29,14.25,0.671,Theatre Square,mentored,1,30,0,20,13,0.65,1.32,1.8,0.43
+15,Top-K,refactory,1,1,418,108,91,0.84,0.29,14.25,0.67
