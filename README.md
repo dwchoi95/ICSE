@@ -17,13 +17,13 @@ data.zip : The dataset from Refactory and AssignmentMender.
     |-...
 ```
 
-> problem_xx : Dataset folder of xxth problem.
-> dataset.json : Dataset of problem which include correct & wrong programs and set of test cases, etc.
-> feedbacks: Folder that stores logs of feedback.
-> {approach} : Folder where feedback logs are stored by approach.
-> with_correct_x.json : xth feedback log of experiment without correct program.
-> without_correct_x.json : xth feedback log of experiment with correct program.
-> results.json : Each result of xth experiment.
+> problem_xx : Dataset folder of xxth problem.  
+> dataset.json : Dataset of problem which include correct & wrong programs and set of test cases, etc.  
+> feedbacks: Folder that stores logs of feedback.  
+> {approach} : Folder where feedback logs are stored by approach.  
+> with_correct_x.json : xth feedback log of experiment without correct program.  
+> without_correct_x.json : xth feedback log of experiment with correct program.  
+> results.json : Each result of xth experiment.  
 
 ## Setup
 
